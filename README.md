@@ -1,2 +1,11 @@
-# scrapethissite-web-scrapping
-Learning Project - Scrapping data Countries of the World: A Simple Example on www.scrapethissite.com
+# Project Name
+
+Simple project for learning about web scrapping.
+
+## What I Practiced
+- Web scraping
+
+## Technologies
+- Python
+- BeautifulSoup
+- Requests
